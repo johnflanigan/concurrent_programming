@@ -220,8 +220,8 @@ static void merge_sort_split(const float* src, int l, int r, float* dst, bool sr
         #pragma omp section 
         { merge_sort_split( src, m + 1, r, dst, !srcToDst ); } // reverse direction of srcToDst for the next level of recursion
     }
-    if ( srcToDst ) merge_parallel_L5( src, l, m, m + 1, r, dst, l );
-    else            merge_parallel_L5( dst, l, m, m + 1, r, src, l );
+    if ( srcToDst ) merge_parallel( src, l, m, m + 1, r, dst, l );
+    else            merge_parallel( dst, l, m, m + 1, r, src, l );
 }
 
 static int merge_sort_parallel(const float *A, const int n, const int num_iterations) {
