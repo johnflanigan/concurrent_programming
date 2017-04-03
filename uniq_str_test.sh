@@ -2,7 +2,7 @@
 
 #SBATCH -p development
 #SBATCH -n 16
-#SBATCH -t 0:15:0
+#SBATCH -t 0:20:0
 
 export OMP_NUM_THREADS=4
 
