@@ -1,0 +1,2282 @@
+login4.stampede(37)$ cat slurm-8401279.out 
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using C qsort
+Execution times (ms) for 10 iterations:
+    7.014
+    2.347
+    2.297
+    2.291
+    2.280
+    2.282
+    2.309
+    2.287
+    2.283
+    2.282
+Average time:     2.767 ms.
+Average sort rate: 75.800 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using C qsort
+Execution times (ms) for 10 iterations:
+    5.024
+    4.807
+    4.750
+    4.735
+    4.705
+    4.720
+    4.745
+    4.718
+    4.728
+    4.717
+Average time:     4.765 ms.
+Average sort rate: 44.021 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using C qsort
+Execution times (ms) for 10 iterations:
+    2.375
+    2.146
+    2.101
+    2.100
+    2.089
+    2.089
+    2.098
+    2.097
+    2.088
+    2.097
+Average time:     2.128 ms.
+Average sort rate: 98.571 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using C qsort
+Execution times (ms) for 10 iterations:
+    2.047
+    1.822
+    1.816
+    1.810
+    1.800
+    1.796
+    1.818
+    1.821
+    1.819
+    1.809
+Average time:     1.836 ms.
+Average sort rate: 114.257 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   31.890
+   31.170
+   31.068
+   31.074
+   31.068
+   31.095
+   31.079
+   31.080
+   31.072
+   31.071
+Average time:    31.167 ms.
+Average sort rate: 340.468 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   44.713
+   43.960
+   43.839
+   43.833
+   43.834
+   43.901
+   43.841
+   43.859
+   43.913
+   43.838
+Average time:    43.953 ms.
+Average sort rate: 241.422 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   25.310
+   24.620
+   24.547
+   24.373
+   24.377
+   24.399
+   24.370
+   24.396
+   24.598
+   24.376
+Average time:    24.537 ms.
+Average sort rate: 432.465 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   23.141
+   22.402
+   22.372
+   22.349
+   22.430
+   22.364
+   22.375
+   22.371
+   22.362
+   22.367
+Average time:    22.453 ms.
+Average sort rate: 472.592 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   21.776
+   21.210
+   21.088
+   21.103
+   21.117
+   21.108
+   21.078
+   21.101
+   21.079
+   21.227
+Average time:    21.189 ms.
+Average sort rate: 129.646 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   30.157
+   29.770
+   29.660
+   29.662
+   29.639
+   29.727
+   29.638
+   29.638
+   29.741
+   29.634
+Average time:    29.727 ms.
+Average sort rate: 92.409 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   17.031
+   16.606
+   16.517
+   16.514
+   16.502
+   16.505
+   16.515
+   16.538
+   16.506
+   16.508
+Average time:    16.574 ms.
+Average sort rate: 165.741 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   15.053
+   14.707
+   14.631
+   14.673
+   14.659
+   14.654
+   14.642
+   14.676
+   14.654
+   14.662
+Average time:    14.701 ms.
+Average sort rate: 186.858 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using inline qsort
+Execution times (ms) for 10 iterations:
+    1.949
+    1.937
+    1.935
+    1.935
+    1.939
+    1.937
+    1.932
+    1.930
+    1.938
+    1.936
+Average time:     1.937 ms.
+Average sort rate: 108.300 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using inline qsort
+Execution times (ms) for 10 iterations:
+    5.137
+    5.134
+    5.104
+    5.115
+    5.108
+    5.104
+    5.118
+    5.099
+    5.117
+    5.130
+Average time:     5.117 ms.
+Average sort rate: 40.995 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using inline qsort
+Execution times (ms) for 10 iterations:
+    1.904
+    1.899
+    1.901
+    1.901
+    1.898
+    1.895
+    1.899
+    1.888
+    1.896
+    1.886
+Average time:     1.897 ms.
+Average sort rate: 110.589 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using inline qsort
+Execution times (ms) for 10 iterations:
+    1.860
+    1.850
+    1.842
+    1.842
+    1.863
+    1.853
+    1.838
+    1.849
+    1.847
+    1.845
+Average time:     1.849 ms.
+Average sort rate: 113.449 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   36.318
+   36.315
+   36.351
+   36.332
+   36.307
+   36.297
+   36.307
+   36.301
+   36.283
+   36.312
+Average time:    36.312 ms.
+Average sort rate: 292.222 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   53.749
+   53.788
+   53.742
+   53.763
+   53.771
+   53.787
+   53.736
+   53.764
+   53.749
+   53.811
+Average time:    53.766 ms.
+Average sort rate: 197.360 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   35.875
+   35.887
+   35.789
+   35.800
+   35.771
+   35.794
+   35.888
+   35.787
+   35.819
+   35.901
+Average time:    35.831 ms.
+Average sort rate: 296.146 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   35.443
+   35.426
+   35.449
+   35.423
+   35.415
+   35.417
+   35.415
+   35.425
+   35.436
+   35.429
+Average time:    35.428 ms.
+Average sort rate: 299.518 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   24.299
+   24.287
+   24.305
+   24.311
+   24.339
+   24.301
+   24.295
+   24.286
+   24.299
+   24.314
+Average time:    24.304 ms.
+Average sort rate: 113.029 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   32.852
+   32.821
+   32.813
+   32.820
+   32.841
+   32.808
+   32.800
+   32.846
+   32.813
+   32.811
+Average time:    32.822 ms.
+Average sort rate: 83.693 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   23.737
+   23.659
+   23.581
+   23.657
+   23.673
+   23.568
+   23.563
+   23.580
+   23.587
+   23.600
+Average time:    23.620 ms.
+Average sort rate: 116.298 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   23.454
+   23.442
+   23.462
+   23.435
+   23.440
+   23.431
+   23.466
+   23.439
+   23.478
+   23.462
+Average time:    23.451 ms.
+Average sort rate: 117.139 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using STL sort
+Execution times (ms) for 10 iterations:
+    1.676
+    1.586
+    1.595
+    1.583
+    1.600
+    1.600
+    1.590
+    1.598
+    1.606
+    1.587
+Average time:     1.602 ms.
+Average sort rate: 130.927 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using STL sort
+Execution times (ms) for 10 iterations:
+    4.818
+    4.747
+    4.778
+    4.744
+    4.741
+    4.751
+    4.733
+    4.746
+    4.769
+    4.744
+Average time:     4.757 ms.
+Average sort rate: 44.093 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using STL sort
+Execution times (ms) for 10 iterations:
+    1.579
+    1.535
+    1.542
+    1.533
+    1.546
+    1.516
+    1.532
+    1.520
+    1.525
+    1.542
+Average time:     1.537 ms.
+Average sort rate: 136.467 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using STL sort
+Execution times (ms) for 10 iterations:
+    1.580
+    1.560
+    1.516
+    1.533
+    1.513
+    1.558
+    1.546
+    1.510
+    1.536
+    1.550
+Average time:     1.540 ms.
+Average sort rate: 136.186 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   32.428
+   32.363
+   32.363
+   32.356
+   32.368
+   32.353
+   32.349
+   32.349
+   32.351
+   32.357
+Average time:    32.364 ms.
+Average sort rate: 327.875 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   54.298
+   54.245
+   54.301
+   54.246
+   54.241
+   54.238
+   54.237
+   54.233
+   54.220
+   54.228
+Average time:    54.249 ms.
+Average sort rate: 195.603 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   32.501
+   32.378
+   32.449
+   32.387
+   32.390
+   32.416
+   32.380
+   32.408
+   32.426
+   32.393
+Average time:    32.413 ms.
+Average sort rate: 327.378 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   32.130
+   32.068
+   32.047
+   32.046
+   32.057
+   32.033
+   32.053
+   32.014
+   32.023
+   32.049
+Average time:    32.052 ms.
+Average sort rate: 331.064 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   21.627
+   21.544
+   21.546
+   21.548
+   21.539
+   21.556
+   21.546
+   21.544
+   21.552
+   21.540
+Average time:    21.554 ms.
+Average sort rate: 127.447 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   32.600
+   32.540
+   32.519
+   32.525
+   32.520
+   32.515
+   32.531
+   32.507
+   32.512
+   32.523
+Average time:    32.529 ms.
+Average sort rate: 84.448 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   21.102
+   20.988
+   20.999
+   20.996
+   20.989
+   20.969
+   20.987
+   20.985
+   20.987
+   21.051
+Average time:    21.005 ms.
+Average sort rate: 130.778 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   20.875
+   20.788
+   20.809
+   20.794
+   20.781
+   20.783
+   20.779
+   20.786
+   20.800
+   20.775
+Average time:    20.797 ms.
+Average sort rate: 132.087 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 25481
+   14.161
+Number of unique strings: 25481
+   12.443
+Number of unique strings: 25481
+   12.443
+Number of unique strings: 25481
+   12.437
+Number of unique strings: 25481
+   12.447
+Number of unique strings: 25481
+   12.458
+Number of unique strings: 25481
+   12.438
+Number of unique strings: 25481
+   12.439
+Number of unique strings: 25481
+   12.460
+Number of unique strings: 25481
+   12.451
+Average time:    12.618 ms.
+Average sort rate: 16.624 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 25481
+   15.720
+Number of unique strings: 25481
+   15.441
+Number of unique strings: 25481
+   16.288
+Number of unique strings: 25481
+   16.464
+Number of unique strings: 25481
+   16.414
+Number of unique strings: 25481
+   16.494
+Number of unique strings: 25481
+   16.531
+Number of unique strings: 25481
+   16.458
+Number of unique strings: 25481
+   16.537
+Number of unique strings: 25481
+   16.441
+Average time:    16.279 ms.
+Average sort rate: 12.885 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 25481
+   13.155
+Number of unique strings: 25481
+   10.905
+Number of unique strings: 25481
+   11.423
+Number of unique strings: 25481
+   10.895
+Number of unique strings: 25481
+   11.414
+Number of unique strings: 25481
+   10.887
+Number of unique strings: 25481
+   11.411
+Number of unique strings: 25481
+   10.890
+Number of unique strings: 25481
+   11.417
+Number of unique strings: 25481
+   10.890
+Average time:    11.329 ms.
+Average sort rate: 18.515 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 25481
+   13.193
+Number of unique strings: 25481
+   11.483
+Number of unique strings: 25481
+   11.488
+Number of unique strings: 25481
+   11.478
+Number of unique strings: 25481
+   11.469
+Number of unique strings: 25481
+   11.468
+Number of unique strings: 25481
+   11.467
+Number of unique strings: 25481
+   11.452
+Number of unique strings: 25481
+   11.469
+Number of unique strings: 25481
+   11.485
+Average time:    11.645 ms.
+Average sort rate: 18.012 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 45375
+   34.903
+Number of unique strings: 45375
+   33.584
+Number of unique strings: 45375
+   34.322
+Number of unique strings: 45375
+   33.455
+Number of unique strings: 45375
+   34.341
+Number of unique strings: 45375
+   33.505
+Number of unique strings: 45375
+   34.311
+Number of unique strings: 45375
+   33.445
+Number of unique strings: 45375
+   34.326
+Number of unique strings: 45375
+   33.464
+Average time:    33.966 ms.
+Average sort rate: 312.411 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 45375
+   47.006
+Number of unique strings: 45375
+   54.076
+Number of unique strings: 45375
+   46.771
+Number of unique strings: 45375
+   53.940
+Number of unique strings: 45375
+   46.791
+Number of unique strings: 45375
+   53.969
+Number of unique strings: 45375
+   47.005
+Number of unique strings: 45375
+   53.883
+Number of unique strings: 45375
+   46.721
+Number of unique strings: 45375
+   53.907
+Average time:    50.407 ms.
+Average sort rate: 210.512 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 45375
+   32.199
+Number of unique strings: 45375
+   27.745
+Number of unique strings: 45375
+   26.677
+Number of unique strings: 45375
+   27.911
+Number of unique strings: 45375
+   26.718
+Number of unique strings: 45375
+   27.855
+Number of unique strings: 45375
+   26.665
+Number of unique strings: 45375
+   27.857
+Number of unique strings: 45375
+   26.639
+Number of unique strings: 45375
+   27.814
+Average time:    27.808 ms.
+Average sort rate: 381.589 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 45375
+   32.364
+Number of unique strings: 45375
+   30.023
+Number of unique strings: 45375
+   31.905
+Number of unique strings: 45375
+   29.976
+Number of unique strings: 45375
+   31.898
+Number of unique strings: 45375
+   29.949
+Number of unique strings: 45375
+   31.863
+Number of unique strings: 45375
+   29.965
+Number of unique strings: 45375
+   31.952
+Number of unique strings: 45375
+   29.942
+Average time:    30.984 ms.
+Average sort rate: 342.478 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 7325
+   15.310
+Number of unique strings: 7325
+   14.931
+Number of unique strings: 7325
+   15.026
+Number of unique strings: 7325
+   15.047
+Number of unique strings: 7325
+   15.091
+Number of unique strings: 7325
+   15.142
+Number of unique strings: 7325
+   15.281
+Number of unique strings: 7325
+   15.284
+Number of unique strings: 7325
+   15.271
+Number of unique strings: 7325
+   15.308
+Average time:    15.169 ms.
+Average sort rate: 181.093 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 7325
+   20.843
+Number of unique strings: 7325
+   21.859
+Number of unique strings: 7325
+   21.856
+Number of unique strings: 7325
+   21.964
+Number of unique strings: 7325
+   21.893
+Number of unique strings: 7325
+   21.984
+Number of unique strings: 7325
+   21.916
+Number of unique strings: 7325
+   21.867
+Number of unique strings: 7325
+   21.876
+Number of unique strings: 7325
+   21.870
+Average time:    21.793 ms.
+Average sort rate: 126.051 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 7325
+   15.702
+Number of unique strings: 7325
+   15.285
+Number of unique strings: 7325
+   15.013
+Number of unique strings: 7325
+   15.365
+Number of unique strings: 7325
+   15.014
+Number of unique strings: 7325
+   15.285
+Number of unique strings: 7325
+   15.040
+Number of unique strings: 7325
+   15.277
+Number of unique strings: 7325
+   15.012
+Number of unique strings: 7325
+   15.321
+Average time:    15.231 ms.
+Average sort rate: 180.352 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 7325
+   15.699
+Number of unique strings: 7325
+   15.201
+Number of unique strings: 7325
+   15.173
+Number of unique strings: 7325
+   15.175
+Number of unique strings: 7325
+   15.180
+Number of unique strings: 7325
+   15.174
+Number of unique strings: 7325
+   15.160
+Number of unique strings: 7325
+   15.180
+Number of unique strings: 7325
+   15.185
+Number of unique strings: 7325
+   15.159
+Average time:    15.229 ms.
+Average sort rate: 180.385 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   12.709
+   11.472
+   11.447
+   11.487
+   11.503
+   11.747
+   11.505
+   11.456
+   11.603
+   11.530
+Average time:    11.646 ms.
+Average sort rate: 18.011 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   13.440
+   12.701
+   12.624
+   12.467
+   12.440
+   12.598
+   12.511
+   12.653
+   12.591
+   12.556
+Average time:    12.658 ms.
+Average sort rate: 16.571 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   12.769
+   11.911
+   11.880
+   11.955
+   12.050
+   12.069
+   11.954
+   12.075
+   12.037
+   11.955
+Average time:    12.066 ms.
+Average sort rate: 17.385 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   12.566
+   11.531
+   11.526
+   11.556
+   11.736
+   11.583
+   11.808
+   11.701
+   11.704
+   11.660
+Average time:    11.737 ms.
+Average sort rate: 17.871 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   29.914
+   29.229
+   28.901
+   28.867
+   28.935
+   29.087
+   28.910
+   28.886
+   28.885
+   29.020
+Average time:    29.063 ms.
+Average sort rate: 365.108 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   44.300
+   41.455
+   41.395
+   41.115
+   42.300
+   42.410
+   41.531
+   41.356
+   41.161
+   41.291
+Average time:    41.831 ms.
+Average sort rate: 253.667 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   30.408
+   29.179
+   29.367
+   29.374
+   29.396
+   29.537
+   29.440
+   29.095
+   29.034
+   29.062
+Average time:    29.389 ms.
+Average sort rate: 361.059 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   29.460
+   28.297
+   28.285
+   28.329
+   28.303
+   28.110
+   27.972
+   28.222
+   28.329
+   28.187
+Average time:    28.349 ms.
+Average sort rate: 374.303 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   25.959
+   25.209
+   24.999
+   25.512
+   25.577
+   25.730
+   25.532
+   25.606
+   25.521
+   25.656
+Average time:    25.530 ms.
+Average sort rate: 107.599 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   34.677
+   32.915
+   32.752
+   32.519
+   32.686
+   32.998
+   32.927
+   33.081
+   33.155
+   32.927
+Average time:    33.064 ms.
+Average sort rate: 83.083 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   25.894
+   25.208
+   25.283
+   25.213
+   25.527
+   25.400
+   25.002
+   25.519
+   25.352
+   25.389
+Average time:    25.379 ms.
+Average sort rate: 108.241 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   25.547
+   24.723
+   24.970
+   24.990
+   24.706
+   24.708
+   24.539
+   24.931
+   24.946
+   25.060
+Average time:    24.912 ms.
+Average sort rate: 110.269 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using C qsort
+Execution times (ms) for 10 iterations:
+    2.535
+    2.335
+    2.290
+    2.303
+    2.290
+    2.315
+    2.279
+    2.293
+    2.299
+    2.292
+Average time:     2.323 ms.
+Average sort rate: 90.291 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using C qsort
+Execution times (ms) for 10 iterations:
+    4.960
+    4.767
+    4.721
+    4.702
+    4.706
+    4.692
+    4.701
+    4.699
+    4.696
+    4.688
+Average time:     4.733 ms.
+Average sort rate: 44.316 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using C qsort
+Execution times (ms) for 10 iterations:
+    2.409
+    2.160
+    2.099
+    2.093
+    2.094
+    2.101
+    2.089
+    2.095
+    2.105
+    2.088
+Average time:     2.133 ms.
+Average sort rate: 98.326 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using C qsort
+Execution times (ms) for 10 iterations:
+    2.014
+    1.838
+    1.799
+    1.815
+    1.837
+    1.803
+    1.807
+    1.824
+    1.825
+    1.806
+Average time:     1.837 ms.
+Average sort rate: 114.194 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   31.889
+   31.158
+   31.057
+   31.127
+   31.064
+   31.121
+   31.073
+   31.092
+   31.088
+   31.061
+Average time:    31.173 ms.
+Average sort rate: 340.399 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   44.735
+   44.012
+   43.878
+   43.933
+   43.874
+   43.870
+   44.049
+   43.904
+   43.965
+   44.026
+Average time:    44.025 ms.
+Average sort rate: 241.030 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   25.261
+   24.563
+   24.383
+   24.366
+   24.476
+   24.479
+   24.490
+   24.373
+   24.391
+   24.384
+Average time:    24.517 ms.
+Average sort rate: 432.819 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   23.178
+   22.572
+   22.346
+   22.471
+   22.348
+   22.351
+   22.359
+   22.358
+   22.431
+   22.347
+Average time:    22.476 ms.
+Average sort rate: 472.113 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   21.727
+   21.188
+   21.083
+   21.180
+   21.195
+   21.118
+   21.094
+   21.149
+   21.095
+   21.115
+Average time:    21.194 ms.
+Average sort rate: 129.611 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   30.635
+   29.758
+   29.635
+   29.632
+   29.622
+   29.816
+   29.623
+   29.624
+   29.635
+   29.640
+Average time:    29.762 ms.
+Average sort rate: 92.299 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   17.153
+   16.600
+   16.716
+   16.498
+   16.504
+   16.502
+   16.518
+   16.497
+   16.496
+   16.499
+Average time:    16.598 ms.
+Average sort rate: 165.500 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using C qsort
+Execution times (ms) for 10 iterations:
+   15.159
+   14.698
+   14.638
+   14.660
+   14.663
+   14.658
+   14.665
+   14.640
+   14.632
+   14.666
+Average time:    14.708 ms.
+Average sort rate: 186.772 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using inline qsort
+Execution times (ms) for 10 iterations:
+    1.956
+    1.949
+    1.949
+    1.937
+    1.938
+    1.932
+    1.937
+    1.937
+    1.940
+    1.940
+Average time:     1.941 ms.
+Average sort rate: 108.038 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using inline qsort
+Execution times (ms) for 10 iterations:
+    5.159
+    5.137
+    5.124
+    5.154
+    5.120
+    5.126
+    5.108
+    5.110
+    5.134
+    5.109
+Average time:     5.128 ms.
+Average sort rate: 40.903 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using inline qsort
+Execution times (ms) for 10 iterations:
+    1.900
+    1.887
+    1.896
+    1.907
+    1.901
+    1.903
+    1.901
+    1.898
+    1.904
+    1.893
+Average time:     1.899 ms.
+Average sort rate: 110.456 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using inline qsort
+Execution times (ms) for 10 iterations:
+    1.856
+    1.854
+    1.846
+    1.854
+    1.847
+    1.836
+    1.854
+    1.857
+    1.847
+    1.857
+Average time:     1.851 ms.
+Average sort rate: 113.332 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   36.327
+   36.298
+   36.297
+   36.266
+   36.324
+   36.299
+   36.324
+   36.294
+   36.329
+   36.311
+Average time:    36.307 ms.
+Average sort rate: 292.265 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   53.711
+   53.699
+   53.719
+   53.708
+   53.691
+   53.711
+   53.699
+   53.692
+   53.745
+   53.741
+Average time:    53.712 ms.
+Average sort rate: 197.560 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   35.933
+   35.793
+   35.797
+   35.875
+   35.843
+   35.812
+   35.768
+   35.782
+   35.794
+   35.866
+Average time:    35.826 ms.
+Average sort rate: 296.186 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   35.439
+   35.423
+   35.425
+   35.420
+   35.437
+   35.419
+   35.406
+   35.414
+   35.420
+   35.407
+Average time:    35.421 ms.
+Average sort rate: 299.575 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   24.323
+   24.303
+   24.289
+   24.377
+   24.273
+   24.282
+   24.319
+   24.323
+   24.277
+   24.357
+Average time:    24.312 ms.
+Average sort rate: 112.989 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   32.853
+   32.844
+   32.826
+   32.800
+   32.817
+   32.785
+   32.796
+   32.797
+   32.821
+   32.886
+Average time:    32.822 ms.
+Average sort rate: 83.693 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   23.599
+   23.583
+   23.580
+   23.551
+   23.777
+   23.699
+   23.579
+   23.570
+   23.566
+   23.574
+Average time:    23.608 ms.
+Average sort rate: 116.361 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using inline qsort
+Execution times (ms) for 10 iterations:
+   23.449
+   23.471
+   23.412
+   23.429
+   23.442
+   23.567
+   23.451
+   23.453
+   23.454
+   23.444
+Average time:    23.457 ms.
+Average sort rate: 117.108 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using STL sort
+Execution times (ms) for 10 iterations:
+    1.644
+    1.595
+    1.590
+    1.583
+    1.590
+    1.591
+    1.587
+    1.598
+    1.584
+    1.586
+Average time:     1.595 ms.
+Average sort rate: 131.524 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using STL sort
+Execution times (ms) for 10 iterations:
+    4.841
+    4.779
+    4.757
+    4.743
+    4.780
+    4.742
+    4.741
+    4.764
+    4.755
+    4.757
+Average time:     4.766 ms.
+Average sort rate: 44.012 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using STL sort
+Execution times (ms) for 10 iterations:
+    1.570
+    1.545
+    1.545
+    1.528
+    1.536
+    1.554
+    1.525
+    1.549
+    1.539
+    1.524
+Average time:     1.541 ms.
+Average sort rate: 136.075 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using STL sort
+Execution times (ms) for 10 iterations:
+    1.565
+    1.511
+    1.545
+    1.561
+    1.531
+    1.526
+    1.516
+    1.507
+    1.515
+    1.538
+Average time:     1.531 ms.
+Average sort rate: 136.962 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   32.423
+   32.384
+   32.349
+   32.342
+   32.343
+   32.345
+   32.351
+   32.368
+   32.347
+   32.347
+Average time:    32.360 ms.
+Average sort rate: 327.913 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   54.226
+   54.171
+   54.170
+   54.169
+   54.161
+   54.166
+   54.169
+   54.179
+   54.166
+   54.170
+Average time:    54.175 ms.
+Average sort rate: 195.871 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   32.498
+   32.443
+   32.400
+   32.414
+   32.407
+   32.385
+   32.401
+   32.414
+   32.403
+   32.411
+Average time:    32.418 ms.
+Average sort rate: 327.330 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   32.103
+   32.049
+   32.035
+   32.039
+   32.056
+   32.060
+   32.049
+   32.040
+   32.057
+   32.042
+Average time:    32.053 ms.
+Average sort rate: 331.053 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   21.632
+   21.538
+   21.538
+   21.549
+   21.542
+   21.540
+   21.533
+   21.537
+   21.547
+   21.535
+Average time:    21.549 ms.
+Average sort rate: 127.477 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   32.557
+   32.496
+   32.494
+   32.496
+   32.484
+   32.492
+   32.486
+   32.490
+   32.480
+   32.485
+Average time:    32.496 ms.
+Average sort rate: 84.534 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   21.049
+   20.980
+   20.990
+   20.979
+   20.986
+   20.986
+   20.993
+   21.005
+   20.998
+   20.996
+Average time:    20.996 ms.
+Average sort rate: 130.834 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using STL sort
+Execution times (ms) for 10 iterations:
+   20.891
+   20.841
+   20.794
+   20.785
+   20.778
+   20.783
+   20.814
+   20.810
+   20.801
+   20.793
+Average time:    20.809 ms.
+Average sort rate: 132.011 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 25481
+   14.013
+Number of unique strings: 25481
+   12.455
+Number of unique strings: 25481
+   12.441
+Number of unique strings: 25481
+   12.450
+Number of unique strings: 25481
+   12.449
+Number of unique strings: 25481
+   12.443
+Number of unique strings: 25481
+   12.460
+Number of unique strings: 25481
+   12.440
+Number of unique strings: 25481
+   12.448
+Number of unique strings: 25481
+   12.462
+Average time:    12.606 ms.
+Average sort rate: 16.639 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 25481
+   15.534
+Number of unique strings: 25481
+   15.445
+Number of unique strings: 25481
+   16.316
+Number of unique strings: 25481
+   16.490
+Number of unique strings: 25481
+   16.432
+Number of unique strings: 25481
+   16.496
+Number of unique strings: 25481
+   16.496
+Number of unique strings: 25481
+   16.474
+Number of unique strings: 25481
+   16.498
+Number of unique strings: 25481
+   16.448
+Average time:    16.263 ms.
+Average sort rate: 12.898 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 25481
+   12.870
+Number of unique strings: 25481
+   11.015
+Number of unique strings: 25481
+   11.384
+Number of unique strings: 25481
+   10.995
+Number of unique strings: 25481
+   11.380
+Number of unique strings: 25481
+   11.001
+Number of unique strings: 25481
+   11.375
+Number of unique strings: 25481
+   10.993
+Number of unique strings: 25481
+   11.378
+Number of unique strings: 25481
+   10.998
+Average time:    11.339 ms.
+Average sort rate: 18.499 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 25481
+   12.807
+Number of unique strings: 25481
+   11.311
+Number of unique strings: 25481
+   11.303
+Number of unique strings: 25481
+   11.299
+Number of unique strings: 25481
+   11.301
+Number of unique strings: 25481
+   11.298
+Number of unique strings: 25481
+   11.301
+Number of unique strings: 25481
+   11.302
+Number of unique strings: 25481
+   11.295
+Number of unique strings: 25481
+   11.304
+Average time:    11.452 ms.
+Average sort rate: 18.316 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 45375
+   34.749
+Number of unique strings: 45375
+   33.621
+Number of unique strings: 45375
+   34.334
+Number of unique strings: 45375
+   33.632
+Number of unique strings: 45375
+   34.259
+Number of unique strings: 45375
+   33.496
+Number of unique strings: 45375
+   34.293
+Number of unique strings: 45375
+   33.535
+Number of unique strings: 45375
+   34.340
+Number of unique strings: 45375
+   33.535
+Average time:    33.979 ms.
+Average sort rate: 312.285 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 45375
+   46.938
+Number of unique strings: 45375
+   54.271
+Number of unique strings: 45375
+   46.773
+Number of unique strings: 45375
+   54.184
+Number of unique strings: 45375
+   46.733
+Number of unique strings: 45375
+   54.151
+Number of unique strings: 45375
+   46.767
+Number of unique strings: 45375
+   54.166
+Number of unique strings: 45375
+   46.753
+Number of unique strings: 45375
+   54.191
+Average time:    50.493 ms.
+Average sort rate: 210.154 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 45375
+   32.113
+Number of unique strings: 45375
+   27.760
+Number of unique strings: 45375
+   26.675
+Number of unique strings: 45375
+   27.872
+Number of unique strings: 45375
+   26.656
+Number of unique strings: 45375
+   27.863
+Number of unique strings: 45375
+   26.632
+Number of unique strings: 45375
+   27.825
+Number of unique strings: 45375
+   26.634
+Number of unique strings: 45375
+   27.736
+Average time:    27.777 ms.
+Average sort rate: 382.021 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 45375
+   32.227
+Number of unique strings: 45375
+   30.099
+Number of unique strings: 45375
+   31.784
+Number of unique strings: 45375
+   30.036
+Number of unique strings: 45375
+   31.774
+Number of unique strings: 45375
+   30.006
+Number of unique strings: 45375
+   31.768
+Number of unique strings: 45375
+   30.009
+Number of unique strings: 45375
+   31.752
+Number of unique strings: 45375
+   30.016
+Average time:    30.947 ms.
+Average sort rate: 342.882 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 7325
+   15.249
+Number of unique strings: 7325
+   14.920
+Number of unique strings: 7325
+   14.975
+Number of unique strings: 7325
+   15.069
+Number of unique strings: 7325
+   15.099
+Number of unique strings: 7325
+   15.139
+Number of unique strings: 7325
+   15.293
+Number of unique strings: 7325
+   15.213
+Number of unique strings: 7325
+   15.212
+Number of unique strings: 7325
+   15.326
+Average time:    15.149 ms.
+Average sort rate: 181.328 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 7325
+   20.865
+Number of unique strings: 7325
+   21.863
+Number of unique strings: 7325
+   21.874
+Number of unique strings: 7325
+   21.954
+Number of unique strings: 7325
+   21.861
+Number of unique strings: 7325
+   21.915
+Number of unique strings: 7325
+   21.894
+Number of unique strings: 7325
+   21.869
+Number of unique strings: 7325
+   21.844
+Number of unique strings: 7325
+   21.831
+Average time:    21.777 ms.
+Average sort rate: 126.143 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 7325
+   15.646
+Number of unique strings: 7325
+   15.227
+Number of unique strings: 7325
+   14.968
+Number of unique strings: 7325
+   15.292
+Number of unique strings: 7325
+   14.964
+Number of unique strings: 7325
+   15.222
+Number of unique strings: 7325
+   14.988
+Number of unique strings: 7325
+   15.246
+Number of unique strings: 7325
+   14.977
+Number of unique strings: 7325
+   15.242
+Average time:    15.177 ms.
+Average sort rate: 180.996 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using a map
+Execution times (ms) for 10 iterations:
+Number of unique strings: 7325
+   15.535
+Number of unique strings: 7325
+   15.112
+Number of unique strings: 7325
+   15.096
+Number of unique strings: 7325
+   15.112
+Number of unique strings: 7325
+   15.096
+Number of unique strings: 7325
+   15.098
+Number of unique strings: 7325
+   15.091
+Number of unique strings: 7325
+   15.099
+Number of unique strings: 7325
+   15.106
+Number of unique strings: 7325
+   15.096
+Average time:    15.144 ms.
+Average sort rate: 181.392 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   52.150
+   43.207
+   43.231
+   48.231
+   12.304
+   11.891
+   11.832
+   11.872
+   11.910
+   12.078
+Average time:    25.871 ms.
+Average sort rate:  8.108 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   22.972
+   21.182
+   21.197
+   21.191
+   21.191
+   23.190
+   27.180
+   21.197
+   15.028
+   13.117
+Average time:    20.744 ms.
+Average sort rate: 10.111 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   53.585
+   27.210
+   31.193
+   21.228
+   21.227
+   21.228
+   20.446
+   12.194
+   12.334
+   12.216
+Average time:    23.286 ms.
+Average sort rate:  9.008 MB/s
+File size: 209755 bytes
+num strings read 25481
+N 25481
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   25.070
+   25.197
+   26.218
+   21.232
+   21.234
+   18.233
+   21.230
+   21.232
+   14.956
+   14.398
+Average time:    20.900 ms.
+Average sort rate: 10.036 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   58.511
+   53.640
+   44.769
+   29.571
+   29.447
+   29.532
+   29.696
+   29.666
+   29.615
+   29.496
+Average time:    36.394 ms.
+Average sort rate: 291.563 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   76.185
+   72.954
+   67.369
+   71.686
+   71.379
+   70.984
+   70.862
+   70.823
+   70.853
+   71.551
+Average time:    71.465 ms.
+Average sort rate: 148.483 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   32.438
+   28.619
+   30.680
+   33.699
+   33.699
+   25.278
+   25.039
+   24.947
+   25.093
+   24.903
+Average time:    28.440 ms.
+Average sort rate: 373.116 MB/s
+File size: 10611247 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   55.776
+   31.727
+   55.786
+   30.406
+   25.232
+   24.575
+   24.742
+   24.572
+   24.821
+   25.950
+Average time:    32.359 ms.
+Average sort rate: 327.925 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   45.542
+   37.509
+   37.524
+   35.545
+   28.537
+   26.760
+   26.616
+   26.344
+   26.363
+   26.711
+Average time:    31.745 ms.
+Average sort rate: 86.534 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   47.149
+   39.022
+   39.019
+   39.002
+   29.761
+   29.919
+   29.562
+   29.710
+   29.852
+   29.797
+Average time:    34.279 ms.
+Average sort rate: 80.136 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   28.816
+   28.541
+   28.550
+   28.544
+   28.532
+   28.545
+   21.438
+   21.187
+   21.242
+   21.591
+Average time:    25.699 ms.
+Average sort rate: 106.893 MB/s
+File size: 2747018 bytes
+num strings read 45595
+N 45595
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+   73.151
+   57.658
+   41.369
+   29.365
+   26.023
+   26.046
+   26.013
+   25.985
+   26.109
+   26.052
+Average time:    35.777 ms.
+Average sort rate: 76.782 MB/s
+login4.stampede(38)$ 
