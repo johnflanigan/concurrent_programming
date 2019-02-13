@@ -1,0 +1,608 @@
+N 10000
+Using C qsort
+Execution times (ms) for 10 iterations:
+    3.898
+    0.994
+    0.989
+    0.988
+    0.987
+    0.988
+    0.988
+    0.989
+    0.990
+    0.988
+Average time:     1.280 ms.
+Average sort rate: 31.252 MB/s
+N 10000
+Using C qsort
+Execution times (ms) for 10 iterations:
+    0.489
+    0.306
+    0.302
+    0.302
+    0.306
+    0.302
+    0.302
+    0.305
+    0.302
+    0.303
+Average time:     0.322 ms.
+Average sort rate: 124.276 MB/s
+N 10000
+Using C qsort
+Execution times (ms) for 10 iterations:
+    0.643
+    0.419
+    0.413
+    0.416
+    0.411
+    0.412
+    0.412
+    0.412
+    0.425
+    0.411
+Average time:     0.437 ms.
+Average sort rate: 91.449 MB/s
+N 10000
+Using C qsort
+Execution times (ms) for 10 iterations:
+    0.493
+    0.303
+    0.309
+    0.302
+    0.303
+    0.306
+    0.302
+    0.302
+    0.304
+    0.302
+Average time:     0.323 ms.
+Average sort rate: 124.000 MB/s
+N 10000
+Using C qsort
+Execution times (ms) for 10 iterations:
+    0.579
+    0.396
+    0.392
+    0.395
+    0.411
+    0.395
+    0.393
+    0.393
+    0.395
+    0.412
+Average time:     0.416 ms.
+Average sort rate: 96.133 MB/s
+N 1000000
+Using C qsort
+Execution times (ms) for 10 iterations:
+  148.267
+  147.614
+  146.139
+  146.087
+  146.151
+  146.142
+  146.095
+  146.188
+  146.093
+  146.089
+Average time:   146.486 ms.
+Average sort rate: 27.306 MB/s
+N 1000000
+Using C qsort
+Execution times (ms) for 10 iterations:
+   41.279
+   40.440
+   39.869
+   39.845
+   39.883
+   39.846
+   39.842
+   39.861
+   39.870
+   39.865
+Average time:    40.060 ms.
+Average sort rate: 99.850 MB/s
+N 1000000
+Using C qsort
+Execution times (ms) for 10 iterations:
+   65.216
+   64.401
+   63.069
+   63.051
+   63.071
+   63.071
+   63.059
+   63.061
+   63.060
+   63.053
+Average time:    63.411 ms.
+Average sort rate: 63.080 MB/s
+N 1000000
+Using C qsort
+Execution times (ms) for 10 iterations:
+   41.242
+   40.467
+   39.872
+   39.857
+   40.101
+   39.853
+   39.844
+   39.847
+   39.834
+   39.852
+Average time:    40.077 ms.
+Average sort rate: 99.808 MB/s
+N 1000000
+Using C qsort
+Execution times (ms) for 10 iterations:
+   54.667
+   53.825
+   52.290
+   52.275
+   52.308
+   52.283
+   52.273
+   52.278
+   52.282
+   52.292
+Average time:    52.677 ms.
+Average sort rate: 75.934 MB/s
+N 100000000
+Using C qsort
+Execution times (ms) for 10 iterations:
+19746.982
+19745.236
+19745.503
+19746.689
+19743.152
+19746.032
+19761.748
+19746.498
+19744.100
+19748.556
+Average time: 19747.450 ms.
+Average sort rate: 20.256 MB/s
+N 100000000
+Using C qsort
+Execution times (ms) for 10 iterations:
+ 5319.987
+ 5318.024
+ 5318.005
+ 5317.228
+ 5317.649
+ 5316.894
+ 5318.509
+ 5319.103
+ 5317.439
+ 5317.095
+Average time:  5317.993 ms.
+Average sort rate: 75.216 MB/s
+N 100000000
+Using C qsort
+Execution times (ms) for 10 iterations:
+ 9162.905
+ 9158.026
+ 9158.893
+ 9159.120
+ 9158.679
+ 9159.963
+ 9156.618
+ 9157.221
+ 9157.077
+ 9158.722
+Average time:  9158.722 ms.
+Average sort rate: 43.674 MB/s
+N 100000000
+Using C qsort
+Execution times (ms) for 10 iterations:
+ 5318.225
+ 5317.882
+ 5318.545
+ 5316.947
+ 5316.975
+ 5316.386
+ 5317.212
+ 5316.874
+ 5318.045
+ 5316.659
+Average time:  5317.375 ms.
+Average sort rate: 75.225 MB/s
+N 100000000
+Using C qsort
+Execution times (ms) for 10 iterations:
+ 7461.041
+ 7461.979
+ 7460.451
+ 7461.851
+ 7459.959
+ 7460.245
+ 7460.657
+ 7460.822
+ 7461.260
+ 7453.302
+Average time:  7460.157 ms.
+Average sort rate: 53.618 MB/s
+N 10000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+    0.715
+    0.660
+    0.660
+    0.656
+    0.648
+    0.650
+    0.650
+    0.647
+    0.669
+    0.659
+Average time:     0.661 ms.
+Average sort rate: 60.478 MB/s
+N 10000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+    0.115
+    0.101
+    0.100
+    0.111
+    0.100
+    0.100
+    0.100
+    0.101
+    0.101
+    0.100
+Average time:     0.103 ms.
+Average sort rate: 388.727 MB/s
+N 10000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+    0.138
+    0.116
+    0.113
+    0.112
+    0.112
+    0.112
+    0.111
+    0.115
+    0.110
+    0.110
+Average time:     0.115 ms.
+Average sort rate: 348.129 MB/s
+N 10000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+    0.228
+    0.170
+    0.181
+    0.170
+    0.213
+    0.170
+    0.210
+    0.213
+    0.170
+    0.213
+Average time:     0.194 ms.
+Average sort rate: 206.398 MB/s
+N 10000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+    0.119
+    0.105
+    0.104
+    0.105
+    0.103
+    0.104
+    0.108
+    0.105
+    0.105
+    0.104
+Average time:     0.106 ms.
+Average sort rate: 376.648 MB/s
+N 1000000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+   91.297
+   91.297
+   91.353
+   91.275
+   91.302
+   91.317
+   91.348
+   91.380
+   91.313
+   91.285
+Average time:    91.317 ms.
+Average sort rate: 43.804 MB/s
+N 1000000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+   14.543
+   14.472
+   14.514
+   14.516
+   14.511
+   14.483
+   14.510
+   14.512
+   14.458
+   14.512
+Average time:    14.503 ms.
+Average sort rate: 275.803 MB/s
+N 1000000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+   17.102
+   17.045
+   17.077
+   17.036
+   17.001
+   17.026
+   17.020
+   17.059
+   17.020
+   16.993
+Average time:    17.038 ms.
+Average sort rate: 234.771 MB/s
+N 1000000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+   34.480
+   33.930
+   34.077
+   33.798
+   33.958
+   33.607
+   33.801
+   34.147
+   33.854
+   34.126
+Average time:    33.978 ms.
+Average sort rate: 117.724 MB/s
+N 1000000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+   15.017
+   14.989
+   14.917
+   14.931
+   14.985
+   14.942
+   14.950
+   14.986
+   14.959
+   14.986
+Average time:    14.966 ms.
+Average sort rate: 267.269 MB/s
+N 100000000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+11475.755
+11477.043
+11476.095
+11476.021
+11475.820
+11475.499
+11475.451
+11475.498
+11474.780
+11475.559
+Average time: 11475.752 ms.
+Average sort rate: 34.856 MB/s
+N 100000000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+ 2013.398
+ 2013.631
+ 2012.873
+ 2012.549
+ 2012.279
+ 2013.515
+ 2012.438
+ 2012.824
+ 2012.217
+ 2012.971
+Average time:  2012.869 ms.
+Average sort rate: 198.721 MB/s
+N 100000000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+ 2369.774
+ 2370.089
+ 2370.025
+ 2370.917
+ 2369.708
+ 2369.973
+ 2370.234
+ 2370.952
+ 2370.244
+ 2370.262
+Average time:  2370.218 ms.
+Average sort rate: 168.761 MB/s
+N 100000000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+ 4082.490
+ 4077.029
+ 4082.948
+ 4073.872
+ 4083.751
+ 4084.481
+ 4085.670
+ 4088.055
+ 4087.547
+ 4081.899
+Average time:  4082.774 ms.
+Average sort rate: 97.973 MB/s
+N 100000000
+Using inline qsort implementation
+Execution times (ms) for 10 iterations:
+ 2060.807
+ 2059.432
+ 2059.755
+ 2061.041
+ 2060.525
+ 2059.939
+ 2059.516
+ 2058.924
+ 2059.526
+ 2060.161
+Average time:  2059.963 ms.
+Average sort rate: 194.178 MB/s
+N 10000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+    5.160
+    4.352
+    4.333
+    4.320
+    4.377
+    4.424
+    4.428
+    4.212
+    4.416
+    4.485
+Average time:     4.451 ms.
+Average sort rate:  8.987 MB/s
+N 10000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+    5.206
+    4.468
+    4.299
+    4.497
+    4.423
+    4.402
+    4.431
+    4.378
+    4.351
+    4.353
+Average time:     4.481 ms.
+Average sort rate:  8.927 MB/s
+N 10000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+    5.163
+    4.645
+    4.570
+    4.554
+    4.523
+    4.505
+    4.540
+    4.391
+    4.533
+    4.650
+Average time:     4.607 ms.
+Average sort rate:  8.682 MB/s
+N 10000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+    5.063
+    4.434
+    4.465
+    4.440
+    4.461
+    4.487
+    4.515
+    4.514
+    4.512
+    4.571
+Average time:     4.546 ms.
+Average sort rate:  8.799 MB/s
+N 10000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+    5.153
+    4.573
+    4.521
+    4.427
+    4.496
+    4.491
+    4.477
+    4.367
+    4.497
+    4.339
+Average time:     4.534 ms.
+Average sort rate:  8.822 MB/s
+N 1000000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+  556.982
+  552.926
+  551.081
+  552.167
+  550.869
+  546.365
+  557.322
+  556.694
+  550.059
+  552.239
+Average time:   552.670 ms.
+Average sort rate:  7.238 MB/s
+N 1000000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+  478.977
+  475.057
+  470.771
+  469.759
+  470.628
+  468.896
+  474.831
+  469.981
+  468.383
+  469.307
+Average time:   471.659 ms.
+Average sort rate:  8.481 MB/s
+N 1000000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+  480.878
+  474.848
+  477.749
+  473.903
+  473.299
+  475.832
+  479.311
+  472.676
+  476.410
+  475.421
+Average time:   476.033 ms.
+Average sort rate:  8.403 MB/s
+N 1000000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+  476.166
+  472.633
+  471.621
+  468.962
+  467.380
+  474.167
+  473.279
+  480.050
+  471.490
+  473.062
+Average time:   472.881 ms.
+Average sort rate:  8.459 MB/s
+N 1000000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+  487.835
+  474.687
+  478.148
+  483.745
+  474.595
+  487.626
+  480.933
+  475.170
+  478.179
+  481.117
+Average time:   480.204 ms.
+Average sort rate:  8.330 MB/s
+N 100000000
+Using parallel merge sort
+Execution times (ms) for 10 iterations:
+70879.875
+70925.155
+70931.546
+70932.778
+70924.765
